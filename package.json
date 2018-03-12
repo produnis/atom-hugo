@@ -1,7 +1,7 @@
 {
   "name": "atom-hugo",
   "main": "./lib/atom-hugo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hugo package for Atom",
   "keywords": [
     "hugo",
